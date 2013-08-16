@@ -1,0 +1,4 @@
+HistoryApp:
+3 Seiten : gestorben, geboren, Ereignis
+Zufälliger Wechsel der Person/Ereigniss nach Button unter der Zusammenfassung
+Link für kompletten artikel im Browser
